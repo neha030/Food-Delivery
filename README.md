@@ -6,4 +6,4 @@ It is a website design made using pure HTML and CSS and aims using the fundament
 strong base for working with differnt techonologies.
 It uses CSS flex properties, forms and basically all the CSS features.
 
-          Made with❤ by Neha
+ Made with ❤ by Neha
